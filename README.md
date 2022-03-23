@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KidEkko
-- 👀 I’m interested in coding and gaining experience in a software development job.
-- 🌱 I’m currently learning C and other languages through the CS50 Harvard Course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- Hi, I’m @KidEkko
+- I’m interested in coding and gaining experience in the software development field
+- 🌱 I’m currently taking the EdX Game Development course after having finished the CS50 course.
+- 📫 How to reach me: ryanvberryman01@gmail.com
 
 <!---
 KidEkko/KidEkko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
