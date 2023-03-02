@@ -1,7 +1,7 @@
 - Hi, I’m @KidEkko
-- I’m interested in coding and gaining experience in the software development field
-- I’m currently taking the EdX Game Development course after having finished the CS50 course.
-- How to reach me: kidekko2022@gmail.com
+- I've been working as a software engineer at Ezoic since May 2022
+- I'm interested in learning new ways to code through experience in the hopes I'll be able to become more independent as a worker, whether that be going into my own company or becoming more senior.
+- 
 
 <!---
 KidEkko/KidEkko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
